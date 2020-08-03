@@ -38,9 +38,7 @@ The winner of the election was:<br>
 Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
 
 ## Election Audit Summary
-1) Get a complete list of counties<br>
-2) Calculate the total number of votes in each county<br>
-3) Find the county with the largest number of votes<br>
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 
 
