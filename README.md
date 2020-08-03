@@ -38,7 +38,10 @@ The winner of the election was:<br>
 Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
 
 ## Election Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+The script can be modified with an input statement where the user is being asked about the file name which then can be used in the os.path.join statement. Alternatively the election commission can save any new election under the same file name: election_results.csv and the script will give the results for the newest election.
+
+
 
 
 
