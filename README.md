@@ -13,6 +13,7 @@ Software: Python 3.7.4, Visual Studio Code
 
 ## Election Audit Results
 The analysis of the election shows that:<br>
+
 There were 369, 711 votes <br>
 
 The number of votes and percentage of the total number of votes in each county were:
